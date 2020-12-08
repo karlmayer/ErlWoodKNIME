@@ -6,9 +6,8 @@
 	<parent>
 		<groupId>org.erlwood.knime</groupId>
 		<artifactId>erlwood-knime</artifactId>
-		<version>4.3.0</version>
-		<relativePath>../../pom.xml</relativePath>
+		<version>4.0.2-SNAPSHOT</version>
 	</parent>
-	<artifactId>org.erlwood.features.cheminformatics.base</artifactId>
-	<packaging>eclipse-feature</packaging>
+	<artifactId>erlwood-target-platform</artifactId>
+	<packaging>eclipse-target-definition</packaging>
 </project>
